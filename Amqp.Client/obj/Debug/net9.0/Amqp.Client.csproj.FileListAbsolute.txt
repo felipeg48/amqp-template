@@ -1,0 +1,12 @@
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/bin/Debug/net9.0/Amqp.Client.deps.json
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/bin/Debug/net9.0/Amqp.Client.dll
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/bin/Debug/net9.0/Amqp.Client.pdb
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/Amqp.Client.csproj.AssemblyReference.cache
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/Amqp.Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/Amqp.Client.AssemblyInfoInputs.cache
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/Amqp.Client.AssemblyInfo.cs
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/Amqp.Client.csproj.CoreCompileInputs.cache
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/Amqp.Client.dll
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/refint/Amqp.Client.dll
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/Amqp.Client.pdb
+/Users/felipeg/Progs/Services/RabbitMQ/Code/csharp/Amqp.Solution/Amqp.Client/obj/Debug/net9.0/ref/Amqp.Client.dll
